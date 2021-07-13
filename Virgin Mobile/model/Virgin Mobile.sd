@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_-6PnYN_wEeuWL92pTi6_FQ" type="Dsl" name="Virgin%20Mobile.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_kYbgIN_xEeuWL92pTi6_FQ" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kYbgJt_xEeuWL92pTi6_FQ" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_kYbgJ9_xEeuWL92pTi6_FQ" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_9cmRwN_9EeuNGPwIoKNoiw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_9cmRxt_9EeuNGPwIoKNoiw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_9cmRx9_9EeuNGPwIoKNoiw" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_WIWZ0N_-EeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WIWZ1N_-EeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WIWZ0d_-EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_WIWZ0t_-EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qml93ea080493894913abd038192e3551f5"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIWZ09_-EeuNGPwIoKNoiw" x="14" y="16" width="61"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Wy82AN_-EeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Wy82BN_-EeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Wy82Ad_-EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_Wy82At_-EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmlc553e1775d894dc2adb4f88aa0a85ccb"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wy82A9_-EeuNGPwIoKNoiw" x="91" y="16"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XIJp8N_-EeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_XIJp9N_-EeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_XIJp8d_-EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_XIJp8t_-EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmld25be564761040888b7cccb5bee4f68f"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XIJp89_-EeuNGPwIoKNoiw" x="163" y="16" width="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XbfcsN_-EeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_XbfctN_-EeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Xbfcsd_-EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_Xbfcst_-EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmlcc7983cc035f465e8e293a2a6119cae5"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Xbfcs9_-EeuNGPwIoKNoiw" x="211" y="16"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Xvgk4N_-EeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Xvgk5N_-EeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Xvgk4d_-EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_Xvgk4t_-EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qml0f30bacdc7774ba89639c48191e601b1"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Xvgk49_-EeuNGPwIoKNoiw" x="295" y="16" width="121"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YLIJ4N_-EeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YLRT0t_-EeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_YLIJ4d_-EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_YLRT0N_-EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmldb402089c33441f8811098d490a4b488"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YLRT0d_-EeuNGPwIoKNoiw" x="427" y="16"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_hVy4sOC5EeuNGPwIoKNoiw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_hVzfwOC5EeuNGPwIoKNoiw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_hVzfweC5EeuNGPwIoKNoiw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qml2be0fe6e1868428788e905292497ca12"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hVy4seC5EeuNGPwIoKNoiw" x="51" y="74"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_9cmRwd_9EeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_9cmRwt_9EeuNGPwIoKNoiw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_9cmRw9_9EeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_9cmRxN_9EeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Virgin%20Mobile.sl#qml337415e5935f4d83952d71aef35540ee"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9cmRxd_9EeuNGPwIoKNoiw" x="7" y="64" width="584" height="149"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_kYbgId_xEeuWL92pTi6_FQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_kYbgIt_xEeuWL92pTi6_FQ" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_kYbgI9_xEeuWL92pTi6_FQ"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_kYbgJN_xEeuWL92pTi6_FQ"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qml2754e1af753a4a46804447dcb2606c52"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kYbgJd_xEeuWL92pTi6_FQ" x="60" y="468" width="613" height="205"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_DPUo4N__EeuNGPwIoKNoiw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DPUo5t__EeuNGPwIoKNoiw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DPUo59__EeuNGPwIoKNoiw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_SlZbAN__EeuNGPwIoKNoiw" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_SlZbBN__EeuNGPwIoKNoiw" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_SlZbAd__EeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_SlZbAt__EeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmlb47b00a53c3b42abb7147e1d8bb2ac4c"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SlZbA9__EeuNGPwIoKNoiw" x="19" y="16" width="133" height="25"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_cZOFgN__EeuNGPwIoKNoiw" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_cZOFhN__EeuNGPwIoKNoiw" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_cZOFgd__EeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_cZOFgt__EeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmlee97672008c14b68933db2d8a6ff0c00"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cZOFg9__EeuNGPwIoKNoiw" x="211" y="16" width="164"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ium6QN__EeuNGPwIoKNoiw" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_ium6RN__EeuNGPwIoKNoiw" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_ium6Qd__EeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_ium6Qt__EeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qml70aa331ba5d644c7ac36c80eaf900b88"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ium6Q9__EeuNGPwIoKNoiw" x="211" y="52" width="145" height="13"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oU0U0N__EeuNGPwIoKNoiw" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_oU0U1d__EeuNGPwIoKNoiw" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_oU0U0d__EeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_oU0U0t__EeuNGPwIoKNoiw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_oU0U09__EeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qmlfd70d457563945838e5d32a713b4b1c3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oU0U1N__EeuNGPwIoKNoiw" x="415" y="16" width="121" height="49"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_DPUo4d__EeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DPUo4t__EeuNGPwIoKNoiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_DPUo49__EeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_DPUo5N__EeuNGPwIoKNoiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qml58a4dd5289e44e0b894914a623a6af08"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DPUo5d__EeuNGPwIoKNoiw" x="660" y="588" width="577" height="145"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_6-x5kN__EeuNGPwIoKNoiw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6-x5lt__EeuNGPwIoKNoiw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_6-x5l9__EeuNGPwIoKNoiw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_EPtyEOADEeuNGPwIoKNoiw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_EPtyFuADEeuNGPwIoKNoiw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_EPtyF-ADEeuNGPwIoKNoiw" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_GddcAOADEeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_GddcBOADEeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_GddcAeADEeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_GddcAuADEeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qml2f46f55b7be84c54bd55bfa5c4236fb3"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GddcA-ADEeuNGPwIoKNoiw" x="247" y="52" width="241" height="21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GddcBeADEeuNGPwIoKNoiw" type="3068">
+            <children xmi:type="notation:DecorationNode" xmi:id="_GddcCeADEeuNGPwIoKNoiw" type="5108"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_GddcBuADEeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_GddcB-ADEeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmla257162703d1435db614917c0534eb6d"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GddcCOADEeuNGPwIoKNoiw" x="19" y="52" width="169" height="25"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GddcCuADEeuNGPwIoKNoiw" type="3068">
+            <children xmi:type="notation:DecorationNode" xmi:id="_GddcDuADEeuNGPwIoKNoiw" type="5108"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_GddcC-ADEeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_GddcDOADEeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qml8c1db4bffd5f47daa9b53283015cda4b"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GddcDeADEeuNGPwIoKNoiw" x="163" y="4" width="133" height="25"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_K840sOADEeuNGPwIoKNoiw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_K840suADEeuNGPwIoKNoiw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_K840s-ADEeuNGPwIoKNoiw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qmlb69fca26d73f414d9bef8c819341f61b"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_K840seADEeuNGPwIoKNoiw" x="43" y="148" width="397" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1N4YQODLEeueWZD_M6-zzw" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_1N4YReDLEeueWZD_M6-zzw" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_1N4YQeDLEeueWZD_M6-zzw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_1N4YQuDLEeueWZD_M6-zzw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_1N4YQ-DLEeueWZD_M6-zzw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qml008ec1e7930f4b899b7a67c4dd5deb26"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1N4YRODLEeueWZD_M6-zzw" x="475" y="148"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_EPtyEeADEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_EPtyEuADEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_EPtyE-ADEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_EPtyFOADEeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Virgin%20Mobile.sl#qml729fc82e2ea14f4586a008c1c6e1bdf1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EPtyFeADEeuNGPwIoKNoiw" x="7" y="4" width="553" height="253"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_6-x5kd__EeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_6-x5kt__EeuNGPwIoKNoiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_6-x5k9__EeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_6-x5lN__EeuNGPwIoKNoiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qml5ba9375b024c4430807949e5248a63b1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6-x5ld__EeuNGPwIoKNoiw" x="432" y="204" width="577" height="301"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_XxdTYOADEeuNGPwIoKNoiw" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_XxdTZuADEeuNGPwIoKNoiw" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_XxdTZ-ADEeuNGPwIoKNoiw" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_qqP-UOADEeuNGPwIoKNoiw" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_qqP-UuADEeuNGPwIoKNoiw" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Virgin%20Mobile.sl#qml0a77864360784f588512bdd3486a77c3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qqP-UeADEeuNGPwIoKNoiw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_XxdTaOADEeuNGPwIoKNoiw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_XxdTaeADEeuNGPwIoKNoiw"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_XxdTYeADEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_XxdTYuADEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_XxdTY-ADEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_XxdTZOADEeuNGPwIoKNoiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="Virgin%20Mobile.sl#qml18d2628dba9147ffb03ca698e1f3a20f"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XxdTZeADEeuNGPwIoKNoiw" x="24" y="276" width="132" height="100"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_Msk0MOAEEeuNGPwIoKNoiw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Msk0NuAEEeuNGPwIoKNoiw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Msk0N-AEEeuNGPwIoKNoiw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_WvviQOAEEeuNGPwIoKNoiw" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_WvviROAEEeuNGPwIoKNoiw" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_WvviQeAEEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_WvviQuAEEeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmle6fd21f355ac4026865c2e4f5da6fefa"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WvviQ-AEEeuNGPwIoKNoiw" x="175" y="4" width="421" height="37"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_faRpcOAEEeuNGPwIoKNoiw" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_faSQgOAEEeuNGPwIoKNoiw" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_faRpceAEEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_faRpcuAEEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_faRpc-AEEeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qml67c27646a96a44fbae16f959c8d315a1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_faRpdOAEEeuNGPwIoKNoiw" x="235" y="100" width="121" height="37"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Msk0MeAEEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Msk0MuAEEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_Msk0M-AEEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Msk0NOAEEeuNGPwIoKNoiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qml888bafd5280940b7ba3516f40e1ef96b"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Msk0NeAEEeuNGPwIoKNoiw" x="180" y="12" width="649" height="181"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_11sRIOAFEeuNGPwIoKNoiw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_11sRJuAFEeuNGPwIoKNoiw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_11sRJ-AFEeuNGPwIoKNoiw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="__XewcOAFEeuNGPwIoKNoiw" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="__XewdOAFEeuNGPwIoKNoiw" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="__XewceAFEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="__XewcuAFEeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmld78f1a6b77744fe699e045d8ae730793"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__Xewc-AFEeuNGPwIoKNoiw" x="31" y="4" width="601" height="13"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Fdkk8OAGEeuNGPwIoKNoiw" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FdlMAOAGEeuNGPwIoKNoiw" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_Fdkk8eAGEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_Fdkk8uAGEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_Fdkk8-AGEeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qml03a09ad4e6214d858e75e1650bb68356"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fdkk9OAGEeuNGPwIoKNoiw" x="151" y="136" width="253" height="61"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_11sRIeAFEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_11sRIuAFEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_11sRI-AFEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_11sRJOAFEeuNGPwIoKNoiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qmlc889ed416c2244adb983a8de46596754"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_11sRJeAFEeuNGPwIoKNoiw" x="36" y="-264" width="661" height="253"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="__qsx8OAGEeuNGPwIoKNoiw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="__qsx9uAGEeuNGPwIoKNoiw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="__qsx9-AGEeuNGPwIoKNoiw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_FOw3cOAHEeuNGPwIoKNoiw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FOw3duAHEeuNGPwIoKNoiw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_FOw3d-AHEeuNGPwIoKNoiw" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_dRhs4OAHEeuNGPwIoKNoiw" type="3068">
+            <children xmi:type="notation:DecorationNode" xmi:id="_dRhs5OAHEeuNGPwIoKNoiw" type="5108"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_dRhs4eAHEeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_dRhs4uAHEeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmla1d4a34dc2f340c89c6dc08299d883be"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dRhs4-AHEeuNGPwIoKNoiw" x="19" y="52" width="431" height="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_spbrAOAHEeuNGPwIoKNoiw" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_spcSEOAHEeuNGPwIoKNoiw" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_spbrAeAHEeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_spbrAuAHEeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmld5254be0cc094d799d48f3518853f291"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_spbrA-AHEeuNGPwIoKNoiw" x="36" y="110"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wvT7QOAHEeuNGPwIoKNoiw" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_wvT7ReAHEeuNGPwIoKNoiw" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_wvT7QeAHEeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_wvT7QuAHEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_wvT7Q-AHEeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qml9778d63059a5424ab357486c23ff82d7"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wvT7ROAHEeuNGPwIoKNoiw" x="458" y="152" width="97"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wVrYYOC5EeuNGPwIoKNoiw" type="3068">
+            <children xmi:type="notation:DecorationNode" xmi:id="_wVr_c-C5EeuNGPwIoKNoiw" type="5108"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_wVr_cOC5EeuNGPwIoKNoiw"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_wVr_ceC5EeuNGPwIoKNoiw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmlf7ea88fb89fe4d8eb786a188424e4d36"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wVr_cuC5EeuNGPwIoKNoiw" x="26" y="4" width="181"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_mP810ODKEeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_mP9c4ODKEeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_mP9c4eDKEeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qmlfa31d34fd4ce44da9603f8b1022c51f3"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mP810eDKEeueWZD_M6-zzw" x="129" y="162" width="8" height="8"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_FOw3ceAHEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_FOw3cuAHEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_FOw3c-AHEeuNGPwIoKNoiw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_FOw3dOAHEeuNGPwIoKNoiw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Virgin%20Mobile.sl#qml8e50c422a8f24dee925567caa7493b63"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FOw3deAHEeuNGPwIoKNoiw" y="-8" width="613" height="241"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="__qsx8eAGEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="__qsx8uAGEeuNGPwIoKNoiw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="__qsx8-AGEeuNGPwIoKNoiw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="__qsx9OAGEeuNGPwIoKNoiw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qmlcb46d496b0d64364b46643563016de44"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__qsx9eAGEeuNGPwIoKNoiw" x="1044" y="240" width="625" height="301"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_RFL6UOMREeueWZD_M6-zzw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_RFL6VuMREeueWZD_M6-zzw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_RFL6V-MREeueWZD_M6-zzw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_VvQcwOMREeueWZD_M6-zzw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_VvQcxuMREeueWZD_M6-zzw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_VvQcx-MREeueWZD_M6-zzw" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_YeLhIOMREeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YeLhIuMREeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_YeLhI-MREeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qmlf196b8600653409a9c8cc8cb4c2b8cf6"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YeLhIeMREeueWZD_M6-zzw" x="31" y="52"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ZB0ZsOMREeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZB0ZsuMREeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZB0Zs-MREeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qml5e0fd485ca944ed2a86684643092596b"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZB0ZseMREeueWZD_M6-zzw" x="31" y="88"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_Zk-KEOMREeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Zk-KEuMREeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Zk-KE-MREeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qmlcbd22f93bdd44cfabe33953469869c16"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zk-KEeMREeueWZD_M6-zzw" x="31" y="124"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_aQOtkOMREeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_aQOtkuMREeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_aQOtk-MREeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qmlf2f478c7b1fd460ebb1bb9c2530e80b2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aQOtkeMREeueWZD_M6-zzw" x="31" y="160"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_brB3oOMREeueWZD_M6-zzw" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_brB3ouMREeueWZD_M6-zzw" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_brB3o-MREeueWZD_M6-zzw" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_brB3pOMREeueWZD_M6-zzw" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="Virgin%20Mobile.sl#qml1321a778b59d483eb88ddc45a1f0d0ed"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_brB3oeMREeueWZD_M6-zzw" x="29" y="18"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_9NycoOMREeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_9NycouMREeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_9Nyco-MREeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qmlda8b99ef0aa949e18934527a3145cd1e"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9NycoeMREeueWZD_M6-zzw" x="31" y="196"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_A-g8QOMSEeueWZD_M6-zzw" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_A-hjUOMSEeueWZD_M6-zzw" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_A-g8QeMSEeueWZD_M6-zzw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_A-g8QuMSEeueWZD_M6-zzw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_A-g8Q-MSEeueWZD_M6-zzw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qmledbea46fc45f4707b1e0e7dec3dd0e29"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A-g8ROMSEeueWZD_M6-zzw" x="104" y="239"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_VvQcweMREeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_VvQcwuMREeueWZD_M6-zzw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_VvQcw-MREeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_VvQcxOMREeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Virgin%20Mobile.sl#qml4425d366d71a49fb81774ae81fc42c59"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VvQcxeMREeueWZD_M6-zzw" x="7" y="52" width="277" height="301"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_FcoGUOMSEeueWZD_M6-zzw" type="3069">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FcoGVOMSEeueWZD_M6-zzw" type="5109"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_FcoGUeMSEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_FcoGUuMSEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmle4a595327d32484a9f7d7fe051d7fda0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FcoGU-MSEeueWZD_M6-zzw" x="7" y="9" width="253"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_RFL6UeMREeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_RFL6UuMREeueWZD_M6-zzw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_RFL6U-MREeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_RFL6VOMREeueWZD_M6-zzw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qmlf0aba9c826884c2b8315fced48e6f069"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RFL6VeMREeueWZD_M6-zzw" x="960" y="-240" width="361" height="385"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_U7bhMOMTEeueWZD_M6-zzw" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_U7cIQOMTEeueWZD_M6-zzw" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_U7cIQeMTEeueWZD_M6-zzw" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_XIQlIOMTEeueWZD_M6-zzw" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_XIQlIuMTEeueWZD_M6-zzw" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Virgin%20Mobile.sl#qml6d9c4fb28e224715abbd6fd027606ed7"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XIQlIeMTEeueWZD_M6-zzw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_YsZRYOMTEeueWZD_M6-zzw" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_YsZRYuMTEeueWZD_M6-zzw" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Virgin%20Mobile.sl#qmlb53fcbcc323e4038b11f5a1fbc3857e7"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YsZRYeMTEeueWZD_M6-zzw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eboFEOMTEeueWZD_M6-zzw" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_eboFEuMTEeueWZD_M6-zzw" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Virgin%20Mobile.sl#qmld5b717ae192349a196c2359f62b4e82e"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eboFEeMTEeueWZD_M6-zzw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_e-80kOMTEeueWZD_M6-zzw" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e-9boOMTEeueWZD_M6-zzw" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="Virgin%20Mobile.sl#qmlcb9a86927bb24149960e65c4335550c4"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e-80keMTEeueWZD_M6-zzw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_U7cIQuMTEeueWZD_M6-zzw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_U7cIQ-MTEeueWZD_M6-zzw"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_U7bhMeMTEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_U7bhMuMTEeueWZD_M6-zzw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_U7bhM-MTEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_U7bhNOMTEeueWZD_M6-zzw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="Virgin%20Mobile.sl#qmlecc276a4e2d64254bb0804ebf7769b1e"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_U7bhNeMTEeueWZD_M6-zzw" x="720" y="-180" width="97" height="157"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zPN94OMVEeueWZD_M6-zzw" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_zPOk8OMVEeueWZD_M6-zzw" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_zPOk8eMVEeueWZD_M6-zzw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_Zr4REOMWEeueWZD_M6-zzw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Zr4RFuMWEeueWZD_M6-zzw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Zr4RF-MWEeueWZD_M6-zzw" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_c0njoOMWEeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_c0njouMWEeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_c0njo-MWEeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qml464d9877310d4cab9eff6fa6adb97a83"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c0njoeMWEeueWZD_M6-zzw" x="15" y="16"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ds6dkOMWEeueWZD_M6-zzw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ds6dkuMWEeueWZD_M6-zzw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ds6dk-MWEeueWZD_M6-zzw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Virgin%20Mobile.sl#qml860f1efb26bc4cddb330e26c1a554d85"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ds6dkeMWEeueWZD_M6-zzw" x="19" y="64"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_Zr4REeMWEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_Zr4REuMWEeueWZD_M6-zzw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_Zr4RE-MWEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Zr4RFOMWEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Virgin%20Mobile.sl#qmla504664be50649b58e0daa9d9d744987"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zr4RFeMWEeueWZD_M6-zzw" x="19" y="64" width="397" height="205"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ksfe0OMWEeueWZD_M6-zzw" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_ksfe1OMWEeueWZD_M6-zzw" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_ksfe0eMWEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_ksfe0uMWEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmle639738326be4986b6f32ef828a22c51"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ksfe0-MWEeueWZD_M6-zzw" x="43" y="292" width="253" height="25"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_FpXvkOMXEeueWZD_M6-zzw" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FpXvlOMXEeueWZD_M6-zzw" type="5017"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_FpXvkeMXEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_FpXvkuMXEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="Virgin%20Mobile.sl#qmlc7d0eb55db664250a55c600642839af5"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FpXvk-MXEeueWZD_M6-zzw" x="336" y="24"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_zPN94eMVEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zPN94uMVEeueWZD_M6-zzw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_zPN94-MVEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_zPN95OMVEeueWZD_M6-zzw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Virgin%20Mobile.sl#qmla62ade2f3a6f48a58f540376c6ed2ca5"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zPN95eMVEeueWZD_M6-zzw" x="1428" y="-216" width="541" height="361"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_5qVnMOMVEeueWZD_M6-zzw" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_5qWOQOMVEeueWZD_M6-zzw" type="5045"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5qWOQeMVEeueWZD_M6-zzw" type="7016">
+      <children xmi:type="notation:Node" xmi:id="_-heVQOMVEeueWZD_M6-zzw" type="3072">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-heVROMVEeueWZD_M6-zzw" type="5112"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_-heVQeMVEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_-heVQuMVEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qml3bc5eccc026a412d80c944d0cc1f365e"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-heVQ-MVEeueWZD_M6-zzw" x="1712" y="155" width="361" height="37"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_-5elkOMVEeueWZD_M6-zzw" type="3072">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-5ellOMVEeueWZD_M6-zzw" type="5112"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_-5elkeMVEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_-5elkuMVEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qml316fc96ecc5f4f3daa36b6cd76330354"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-5elk-MVEeueWZD_M6-zzw" x="1632" y="179" width="361" height="37"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="__eW0QOMVEeueWZD_M6-zzw" type="3072">
+        <children xmi:type="notation:DecorationNode" xmi:id="__eW0ROMVEeueWZD_M6-zzw" type="5112"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="__eW0QeMVEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="__eW0QuMVEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmld1dbf77160af448ca6125a0a5bb9366c"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__eW0Q-MVEeueWZD_M6-zzw" x="115" y="28" width="349"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Jxl-oOMWEeueWZD_M6-zzw" type="3072">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Jxl-pOMWEeueWZD_M6-zzw" type="5112"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_Jxl-oeMWEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_Jxl-ouMWEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmlb9d4ac0e68b54b64b35b1feb7e6ca38c"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jxl-o-MWEeueWZD_M6-zzw" x="1738" y="256" width="361" height="37"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_KATwEOMWEeueWZD_M6-zzw" type="3072">
+        <children xmi:type="notation:DecorationNode" xmi:id="_KAUXIOMWEeueWZD_M6-zzw" type="5112"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_KATwEeMWEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FillStyle" xmi:id="_KATwEuMWEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:LabelWidget" href="Virgin%20Mobile.sl#qmlf28f2fda5fd445d988061eaf8925805c"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KATwE-MWEeueWZD_M6-zzw" x="115" y="76" width="295"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_OyV7sOMWEeueWZD_M6-zzw" type="3036">
+        <children xmi:type="notation:DecorationNode" xmi:id="_OyV7teMWEeueWZD_M6-zzw" type="5039"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_OyV7seMWEeueWZD_M6-zzw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_OyV7suMWEeueWZD_M6-zzw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_OyV7s-MWEeueWZD_M6-zzw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Virgin%20Mobile.sl#qml2f9442ef69b3489da852e4e5fb1b4ee2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OyV7tOMWEeueWZD_M6-zzw" x="67" y="201"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_5qVnMeMVEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_5qVnMuMVEeueWZD_M6-zzw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_5qVnM-MVEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_5qVnNOMVEeueWZD_M6-zzw"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Popup" href="Virgin%20Mobile.sl#qml819bd24db1344056883d3052fd5a4fad"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5qVnNeMVEeueWZD_M6-zzw" x="1728" y="180" width="661" height="325"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_-6PnYd_wEeuWL92pTi6_FQ"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="Virgin%20Mobile.sl#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_tOjt4OMTEeueWZD_M6-zzw" type="4005" source="_brB3oOMREeueWZD_M6-zzw" target="_U7bhMOMTEeueWZD_M6-zzw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_tOjt5OMTEeueWZD_M6-zzw" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_tOjt5eMTEeueWZD_M6-zzw"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tOjt5uMTEeueWZD_M6-zzw" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_tOjt4eMTEeueWZD_M6-zzw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tOjt4uMTEeueWZD_M6-zzw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tOjt4-MTEeueWZD_M6-zzw" points="[-77, 4, 238, 0]$[-266, 0, 49, -4]"/>
+  </edges>
+</notation:Diagram>
